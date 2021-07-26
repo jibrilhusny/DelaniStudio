@@ -138,3 +138,16 @@
     color: white;
     opacity: 1;
 }
+
+#footer {
+    display: block;
+    background-color: white;
+    height: 80px;
+    text-align: center;
+    margin-top: 4%;
+}
+
+#heading6 {
+    text-align: center;
+    text-transform: uppercase;
+}
